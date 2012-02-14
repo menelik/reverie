@@ -1,5 +1,4 @@
-Note: Major changes to come. Will update the readme to reflect this
-====================
+###Note: Major changes to come. Will update the readme to reflect this###
 
 A Brief Introduction
 ====================
