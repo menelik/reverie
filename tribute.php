@@ -388,10 +388,7 @@ get_header(); ?>
 
 		<aside id="sidebar" class="four columns" role="complementary">
 			<div class="sidebar-box">
-				<?php get_sidebar(); ?>
 			</div>
 		</aside><!-- /#sidebar -->
 
 	</div><!-- End content row -->
-	
-<?php get_footer(); ?>
