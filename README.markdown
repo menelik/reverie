@@ -1,3 +1,6 @@
+Note: Major changes to come. Will update the readme to reflect this
+====================
+
 A Brief Introduction
 ====================
 Reverie Framework is an extremely versatile HTML5 WordPress framework based on ZURB's [Foundation](http://foundation.zurb.com), a powerful tool for building prototypes on any kind of devices. Reverie follows [HTML5 Boilerplate](http://html5boilerplate.com) standard and is [hNews microformat](https://www.readability.com/publishers/guidelines) ready. It is optimized for Search Engine while at the same time improve readability.
