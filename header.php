@@ -70,7 +70,7 @@
 		<div class="row">
 			<header class="twelve columns" role="banner">
 				<div class="reverie-header">
-					<h1><?php bloginfo('name'); ?></h1>
+					<h1>Test: <?php bloginfo('name'); ?></h1>
 					<h4 class="subheader"><?php bloginfo('description'); ?></h4>
 				</div>
 				<nav role="navigation">
